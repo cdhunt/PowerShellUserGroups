@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PowerShell User Groups</title>
-    <link>http://powershellusergroups.org.s3-website-us-east-1.amazonaws.com/</link>
-    <description>Recent content on PowerShell User Groups</description>
+    <title>Groups on PowerShell User Groups</title>
+    <link>http://powershellusergroups.org.s3-website-us-east-1.amazonaws.com/groups/</link>
+    <description>Recent content in Groups on PowerShell User Groups</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 17 Nov 2016 20:02:21 -0500</lastBuildDate>
-    <atom:link href="http://powershellusergroups.org.s3-website-us-east-1.amazonaws.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://powershellusergroups.org.s3-website-us-east-1.amazonaws.com/groups/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>New York City</title>
@@ -36,18 +36,6 @@
       <description>
 
 &lt;h1 id=&#34;northern-virginia&#34;&gt;Northern Virginia&lt;/h1&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>default</title>
-      <link>http://powershellusergroups.org.s3-website-us-east-1.amazonaws.com/</link>
-      <pubDate>Thu, 17 Nov 2016 19:19:35 -0500</pubDate>
-      
-      <guid>http://powershellusergroups.org.s3-website-us-east-1.amazonaws.com/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Northern Virginia&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
