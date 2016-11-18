@@ -28,10 +28,90 @@ theme = "hugo-sustain"
 
 ## Main Menu
 [[menu.main]]
-  name = "Northern Virginia, VA, US"
+  name = "Northern Virginia"
   identifier = "nova"
   url = "http://www.meetup.com/NoVA-PowerShell-User-Group/"
 [[menu.main]]
-  name = "Boston, MA, US"
+  name = "Boston"
   identifier = "boston"
   url = "http://www.meetup.com/Boston-PowerShell-User-Group/"
+[[menu.main]]
+  name = "Hawaii"
+  identifier = "Hawaii"
+  url = "http://www.meetup.com/Hawaii-PowerShell-User-Group/"
+[[menu.main]]
+  name = "Texas"
+  identifier = "Texas"
+  url = "http://www.meetup.com/Texas-PowerShell-User-Group/"
+[[menu.main]]
+  name = "New Jersey"
+  identifier = "New Jersey"
+  url = "http://www.meetup.com/New Jersey-PowerShell-User-Group/"
+[[menu.main]]
+  name = "Oregon"
+  identifier = "Oregon"
+  url = "http://www.meetup.com/Oregon-PowerShell-User-Group/"
+[[menu.main]]
+  name = "Arizona"
+  identifier = "Arizona"
+  url = "http://www.meetup.com/Arizona-PowerShell-User-Group/"
+[[menu.main]]
+  name = "Kentucky"
+  identifier = "Kentucky"
+  url = "http://www.meetup.com/Kentucky-PowerShell-User-Group/"
+[[menu.main]]
+  name = "Minnesota"
+  identifier = "Minnesota"
+  url = "http://www.meetup.com/Minnesota-PowerShell-User-Group/"
+[[menu.main]]
+  name = "West Virginia"
+  identifier = "West Virginia"
+  url = "http://www.meetup.com/West Virginia-PowerShell-User-Group/"
+[[menu.main]]
+  name = "Alabama"
+  identifier = "Alabama"
+  url = "http://www.meetup.com/Alabama-PowerShell-User-Group/"
+[[menu.main]]
+  name = "New Jersey"
+  identifier = "New Jersey"
+  url = "http://www.meetup.com/New Jersey-PowerShell-User-Group/"
+[[menu.main]]
+  name = "Virginia"
+  identifier = "Virginia"
+  url = "http://www.meetup.com/Virginia-PowerShell-User-Group/"
+[[menu.main]]
+  name = "Pennsylvania"
+  identifier = "Pennsylvania"
+  url = "http://www.meetup.com/Pennsylvania-PowerShell-User-Group/"
+[[menu.main]]
+  name = "Arizona"
+  identifier = "Arizona"
+  url = "http://www.meetup.com/Arizona-PowerShell-User-Group/"
+[[menu.main]]
+  name = "Missouri"
+  identifier = "Missouri"
+  url = "http://www.meetup.com/Missouri-PowerShell-User-Group/"
+[[menu.main]]
+  name = "Georgia"
+  identifier = "Georgia"
+  url = "http://www.meetup.com/Georgia-PowerShell-User-Group/"
+[[menu.main]]
+  name = "New York"
+  identifier = "New York"
+  url = "http://www.meetup.com/New York-PowerShell-User-Group/"
+[[menu.main]]
+  name = "Connecticut"
+  identifier = "Connecticut"
+  url = "http://www.meetup.com/Connecticut-PowerShell-User-Group/"
+[[menu.main]]
+  name = "New Jersey"
+  identifier = "New Jersey"
+  url = "http://www.meetup.com/New Jersey-PowerShell-User-Group/"
+[[menu.main]]
+  name = "Florida"
+  identifier = "Florida"
+  url = "http://www.meetup.com/Florida-PowerShell-User-Group/"
+[[menu.main]]
+  name = "Pennsylvania"
+  identifier = "Pennsylvania"
+  url = "http://www.meetup.com/Pennsylvania-PowerShell-User-Group/"
