@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Turner</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Chris Turner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 17 Nov 2016 19:19:35 -0500</lastBuildDate>
+    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>default</title>
+      <link>https://example.com/default/</link>
+      <pubDate>Thu, 17 Nov 2016 19:19:35 -0500</pubDate>
+      
+      <guid>https://example.com/default/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Northern Virginia&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
